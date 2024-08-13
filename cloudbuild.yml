@@ -16,3 +16,5 @@ steps:
         'push',
         'southamerica-west1-docker.pkg.dev/tidy-cortex-432423-m7/registro-imagen/auth-ms-prod',
       ]
+options:
+  logging: CLOUD_LOGGING_ONLY
